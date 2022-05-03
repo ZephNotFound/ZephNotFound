@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srujan G V</h1>
 <h3 align="center">Developer Gamer Weeb</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1DSEeIh3pUAGpWQzd5FRPD0eitfDFTL2v/view?usp=sharing"> 
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1WlCIQ-ZDZMaf4Hhh1zdJGTD2dQt_tFTU/view"> 
 
 - 🔭 I’m currently working on **Android Development**
 
