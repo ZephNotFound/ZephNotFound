@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srujan G V</h1>
 <h3 align="center">Developer Gamer Weeb</h3>
-<img align="right" alt="Coding" width="400" src = "https://dribbble.com/shots/5403918-Focus/attachments/10850316?mode=media">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zephnotfound&label=Profile%20views&color=0e75b6&style=flat" alt="zephnotfound" /> </p>
 
 - 🔭 I’m currently working on **Android Development**
 
