@@ -1,7 +1,7 @@
 [![MasterHead](https://drive.google.com/file/d/1DSEeIh3pUAGpWQzd5FRPD0eitfDFTL2v/view)]
 <h1 align="center">Hi 👋, I'm Srujan G V</h1>
 <h3 align="center">Developer Gamer Weeb</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/hnKaQgWNVzIAAAAd/shroud-cool.gif"> 
+<img align="right" alt="Coding" width="400" src="gif1.gif"> 
 
 - 🔭 I’m currently working on **Android Development**
 
