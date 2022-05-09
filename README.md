@@ -1,6 +1,6 @@
 ![MasterHead](b.png)
 <h1 align="center">Hi 👋, I'm Srujan G V</h1>
-<h3 align="center">Developer Coder Hustler</h3>
+<h3 align="center">Developer Coder bruhhhhhhhh</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/hnKaQgWNVzIAAAAd/shroud-cool.gif"> 
 
 - 🔭 I’m currently working on **Android Development**
