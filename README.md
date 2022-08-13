@@ -3,6 +3,8 @@
 <h3 align="center">Developer Coder Hustler</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/hnKaQgWNVzIAAAAd/shroud-cool.gif"> 
 
+![](https://komarev.com/ghpvc/?username=ZephNotFound)
+
 - 🔭 I’m currently working on **Android Development**
 
 - 🌱 I’m currently learning **React**
