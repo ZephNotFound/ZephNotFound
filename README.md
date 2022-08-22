@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Android Development**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **GoLang**
 
 - 📫 How to reach me **srujangv05@gmail.com**
 
