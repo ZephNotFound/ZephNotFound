@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ZephNotFound)
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **GoLang**
 
