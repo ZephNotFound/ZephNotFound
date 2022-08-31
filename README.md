@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zephnotfound&show_icons=true&theme=dark&locale=en&layout=compact" alt="zephnotfound" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zephnotfound&show_icons=true&theme=dark&locale=en" alt="zephnotfound" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zephnotfound&theme=dark" alt="zephnotfound" /></p>
