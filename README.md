@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srujan G V</h1>
 <h3 align="center">Engineer Developer Coder</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/hnKaQgWNVzIAAAAd/shroud-cool.gif"> 
+<!--img align="right" alt="Coding" width="400" src="https://c.tenor.com/hnKaQgWNVzIAAAAd/shroud-cool.gif"--!> 
 
 ![](https://komarev.com/ghpvc/?username=ZephNotFound)
 
