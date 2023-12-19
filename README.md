@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **NestJs**
 
-- 📫 How to reach me **srujangv05@gmail.com**
+<!-- 📫 How to reach me **srujangv05@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
